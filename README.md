@@ -14,7 +14,7 @@ AndroidTemplatePlugin is a plugin for Unreal Engine developed by AvnishGameDev, 
 
 Follow these steps to integrate AndroidTemplatePlugin into your Unreal Engine project:
 
-1. Download the latest release from [the releases page](http://192.168.1.10/avnishgamedev/AndroidTemplatePlugin/releases).
+1. Download the latest release from [the releases page](http://github.com/avnishgamedev/AndroidTemplatePlugin/releases).
 2. Extract the zip file.
 3. In the Extracted folder, you can see `GeneratePlugin.bat` (For Windows) and `GeneratePlugin.sh` (For MacOS). Run the file based on your Operating System.
 4. Enter the name of the plugin which you want to create.
@@ -26,10 +26,10 @@ Now you are free to develop the plugin as you want.
 The plugin comes with an example function `Android_ShowToast` which shows an Android Toast.
 
 ## Support and Issues
-For any issues, questions, or feature requests, please [create an issue](http://192.168.1.10/avnishgamedev/AndroidTemplatePlugin/issues) in the repository.
+For any issues, questions, or feature requests, please [create an issue](http://github.com/avnishgamedev/AndroidTemplatePlugin/issues) in the repository.
 
 ## License
-Any unauthorized use or download is **strictly prohibited**.
+This project is licensed under the [MIT license](https://github.com/AvnishGameDev/AndroidTemplatePlugin/blob/main/LICENSE).
 
 ---
 
