@@ -1,5 +1,7 @@
 # AndroidTemplatePlugin for Unreal Engine
 
+AndroidTemplatePlugin for Unreal Engine, providing a template for Android API integration within Unreal Engine.
+
 ## Overview
 
 AndroidTemplatePlugin is a plugin for Unreal Engine developed by AvnishGameDev, providing a template for Android API integration within Unreal Engine projects. This plugin serves as a starting point for developers looking to create Android-specific functionalities within their games.
